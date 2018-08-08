@@ -1,0 +1,27 @@
+body{
+	
+	margin-left: 80px;
+	
+}
+
+p#resultStyle{
+	
+	font-size: 10px;
+	font-family: Verdana, Tahoma, "Times New Roman", sans-serif;
+	font-weight: bold;
+	
+}
+
+h3{
+	
+	font-size: 17px;
+	font-family: Verdana, Tahoma, "Times New Roman", sans-serif;
+	color: #27408B;
+	
+}
+
+hr{
+	
+	margin-right: 500px;
+	
+}
